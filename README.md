@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Seaam13
+- 👀 I’m interested in programming
+- 🌱 I’m currently learning coding with Visual Studio Code
+- 📫 How to reach me: E-mail me on 'shahriarseaam4@gmail.com'
